@@ -1,0 +1,2 @@
+# Development-of-ROS2-Based-Rover-Robot-with-LiDAR-Integration-Using-Jetson-Orin-Nan
+The end result is a rover capable of local and remote control, real-time monitoring of LiDAR data, and ready for further development in navigation and mapping tasks. This system can serve as an autonomous navigation and ROS-based robot development platform for applications such as environmental mapping, exploration, and inspection robots.
